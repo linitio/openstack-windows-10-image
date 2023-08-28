@@ -1,1 +1,1 @@
-# openstack-windows-10-image
+# openstack-windows-server-2022
