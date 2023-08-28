@@ -1,0 +1,1 @@
+# openstack-windows-10-image
